@@ -6,13 +6,14 @@ Si te mandaron a esta página, no lo tomes a mal. Es probable que quieras ser co
 
 Seguramente has hecho lo siguiente:
 
-<img src="./images/1.png"/ width="800">
+<img src="./images/1.png" width="800"/>
+
 
 Es como si llamaras a alguien, le dijeras "Hola!" y lo pusieras en espera.
 
 Por favor, haz esto mejor:
 
-<img src="./images/2.png"/ width="800">
+<img src="/images/2.png" width="800"/>
 
 Como puedes ver, obtuviste tu respuesta mucho antes, y no hiciste esperar a nadie. En lugar de estar esperando, ¡tu compañero pudo empezar a responder apenas recibió tu mensaje!
 
@@ -20,13 +21,13 @@ Estás tratando de ser cordial al no saltar directamente a la pregunta que tiene
 
 Lo mismo con los siguientes ejemplos:
 
-<img src="./images/3.png"/ width="350">
+<img src="/images/3.png" width="350"/>
 
 ¡Directamente haz la pregunta!
 
 Si sientes que solamente decir Hola y después hacer la pregunta es un poco brusco, puedes hacer lo siguiente:
 
-<img src="./images/4.png"/ width="800">
+<img src="/images/4.png" width="800"/>
 
 Adicionalmente, hacer la pregunta antes de obtener una respuesta de tu compañero habilita la comunicación asíncrona. Si la otra persona no está presente en ese momento o no puede responder, y te vas antes de hacerle la pregunta, ellos pueden responder cuando puedan en lugar de quedarse preguntándose qué necesitabas.
 
