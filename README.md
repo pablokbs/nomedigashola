@@ -1,5 +1,3 @@
-# No me digas Hola
-
 Si te mandaron a esta página, no lo tomes a mal. Es probable que quieras ser cordial al comunicarte, pero esto puede ser un problema. ¡Quiero que nuestra comunicación sea eficiente!
 
 ### Por favor no me digas "hola" en el chat.
@@ -32,3 +30,7 @@ Si sientes que solamente decir Hola y después hacer la pregunta es un poco brus
 Adicionalmente, hacer la pregunta antes de obtener una respuesta de tu compañero habilita la comunicación asíncrona. Si la otra persona no está presente en ese momento o no puede responder, y te vas antes de hacerle la pregunta, ellos pueden responder cuando puedan en lugar de quedarse preguntándose qué necesitabas.
 
 Pasale esta página a aquellos compañeros que deberían aprender a comunicarse por chat :)
+
+---
+
+Esta página es una versión en español de la icónica [nohello.com](https://nohello.com).
