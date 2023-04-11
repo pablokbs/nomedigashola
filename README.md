@@ -9,7 +9,7 @@ Seguramente has hecho lo siguiente:
 
 Es como si llamaras a alguien, le dijeras "Hola!" y lo pusieras en espera.
 
-Por favor, haz esto mejor:
+### Mejor haz esto:
 
 <img src="./images/2.png" border="2"/>
 
@@ -17,11 +17,13 @@ Como puedes ver, obtuviste tu respuesta mucho antes, y no hiciste esperar a nadi
 
 Estás tratando de ser cordial al no saltar directamente a la pregunta que tienes, como si lo hicieras en persona o por teléfono. Pero el chat no es ninguna de esas cosas, tipear es mucho mas lento que hablar. En lugar de ser cordial, estás haciendo a la otra persona esperar a que tipees tu pregunta, lo que se traduce en pérdida de productividad.
 
-Lo mismo con los siguientes ejemplos:
+### ¡No hagas esto!:
 
 <img src="./images/3.png" border="2"/>
 
 ¡Directamente haz la pregunta!
+
+### Si quieres ser más cordial:
 
 Si sientes que solamente decir Hola y después hacer la pregunta es un poco brusco, puedes hacer lo siguiente:
 
