@@ -33,6 +33,14 @@ Adicionalmente, hacer la pregunta antes de obtener una respuesta de tu compañer
 
 Pasale esta página a aquellos compañeros que deberían aprender a comunicarse por chat :)
 
+### Version en video
+
+En este video explico lo mismo por si prefieren este medio:
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=j4K5vM36-Cg"><img src="https://img.youtube.com/vi/j4K5vM36-Cg/0.jpg" alt="Link a video"></a>
+</div>
+
 ---
 
 Esta página es una versión en español de la icónica [nohello.com](https://nohello.com).
