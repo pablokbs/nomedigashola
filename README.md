@@ -38,7 +38,7 @@ Pasale esta página a aquellos compañeros que deberían aprender a comunicarse 
 En este video explico lo mismo por si prefieren este medio:
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=j4K5vM36-Cg"><img src="https://img.youtube.com/vi/j4K5vM36-Cg/0.jpg" alt="Link a video"></a>
+  <a href="https://www.youtube.com/watch?v=ZsXQzXdlVQ4"><img src="https://img.youtube.com/vi/ZsXQzXdlVQ4/0.jpg" alt="Link a video"></a>
 </div>
 
 ---
